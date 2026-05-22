@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ppp{
+    transition-duration: 1s;
+}
+.ppp:hover{
+    background-color:#f3f78e70; ;
+}
+.pp img{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    
+}
